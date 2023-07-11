@@ -1,4 +1,3 @@
-import ClientComponent from './ClientComponent'
-import ServerComponent from './ServerComponent'
+import setGlobalStyleVar from './utils/setGlobalStyleVar'
 
-export { ClientComponent, ServerComponent }
+export { setGlobalStyleVar }
